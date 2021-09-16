@@ -1,3 +1,4 @@
 # exkadai
 松江高専Ruby講義Ex課題
-DXRubyライブラリを使ったゲーム
+DXRubyライブラリを使ったゲーム作成
+変更の確認
